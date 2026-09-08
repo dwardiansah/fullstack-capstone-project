@@ -1,0 +1,94 @@
+curl -X GET "http://localhost:3060/api/search?category=Living"
+
+[
+  {
+    "id": "1",
+    "name": "Mid-Century Wooden Coffee Table",
+    "category": "Living",
+    "condition": "Good",
+    "posted_by": "Sarah Miller",
+    "zipcode": "10001",
+    "date_added": 1704067200,
+    "age_years": 2.5,
+    "description": "Solid oak wood coffee table with slight signs of wear on the lower shelf, very sturdy.",
+    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "David",
+        "comment": "Looks really beautiful and well maintained!"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Vintage Acoustic Guitar",
+    "category": "Living",
+    "condition": "Fair",
+    "posted_by": "Rachel Green",
+    "zipcode": "10005",
+    "date_added": 1704412800,
+    "age_years": 4,
+    "description": "Dreadnought acoustic guitar with warm tone. Minor scratches on back, newly strung.",
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Lucas",
+        "comment": "Great starter guitar with rich resonance."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Ergonomic Mesh Desk Chair",
+    "category": "Living",
+    "condition": "Like New",
+    "posted_by": "Robert Vance",
+    "zipcode": "10006",
+    "date_added": 1704499200,
+    "age_years": 0.5,
+    "description": "High back breathable mesh office chair with adjustable lumbar support and 3D armrests.",
+    "image": "https://images.unsplash.com/photo-1580481077195-c3a821a58875?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Hannah",
+        "comment": "Saved my back during long work from home days."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Nordic Wool Throw Blanket",
+    "category": "Living",
+    "condition": "Like New",
+    "posted_by": "Emma Watson",
+    "zipcode": "10012",
+    "date_added": 1705017600,
+    "age_years": 0.4,
+    "description": "100% pure virgin wool herringbone throw blanket in charcoal grey with fringed edges.",
+    "image": "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Arthur",
+        "comment": "Cozy, warm, and zero scratching."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Smart Wi-Fi Air Purifier with HEPA Filter",
+    "category": "Living",
+    "condition": "Excellent",
+    "posted_by": "Bruce Wayne",
+    "zipcode": "10014",
+    "date_added": 1705190400,
+    "age_years": 1.1,
+    "description": "Covers up to 500 sq ft, ultra quiet sleep mode, real-time air quality indicator light.",
+    "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Alfred",
+        "comment": "Clears pollen and dust remarkably quickly."
+      }
+    ]
+  }
+]

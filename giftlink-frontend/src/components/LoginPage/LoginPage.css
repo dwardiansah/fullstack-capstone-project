@@ -1,0 +1,24 @@
+.login-page-wrapper {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+}
+
+.login-card {
+  border-radius: 1.25rem;
+}
+
+.login-icon-badge {
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.submit-login-btn {
+  background: linear-gradient(135deg, #2563eb, #3b82f6);
+  border: none;
+  font-size: 1rem;
+}
+
+.submit-login-btn:hover {
+  background: linear-gradient(135deg, #1d4ed8, #2563eb);
+}

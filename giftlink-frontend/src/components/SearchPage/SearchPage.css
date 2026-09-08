@@ -1,0 +1,9 @@
+.search-page-wrapper {
+  min-height: 85vh;
+}
+
+.filter-card {
+  background: white;
+  position: sticky;
+  top: 90px;
+}

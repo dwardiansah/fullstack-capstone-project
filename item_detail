@@ -1,0 +1,20 @@
+curl -X GET http://localhost:3060/api/gifts/1
+
+{
+  "id": "1",
+  "name": "Mid-Century Wooden Coffee Table",
+  "category": "Living",
+  "condition": "Good",
+  "posted_by": "Sarah Miller",
+  "zipcode": "10001",
+  "date_added": 1704067200,
+  "age_years": 2.5,
+  "description": "Solid oak wood coffee table with slight signs of wear on the lower shelf, very sturdy.",
+  "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=500&auto=format&fit=crop&q=60",
+  "comments": [
+    {
+      "author": "David",
+      "comment": "Looks really beautiful and well maintained!"
+    }
+  ]
+}

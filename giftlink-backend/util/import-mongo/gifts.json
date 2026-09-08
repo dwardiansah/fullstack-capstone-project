@@ -1,0 +1,290 @@
+[
+  {
+    "id": "1",
+    "name": "Mid-Century Wooden Coffee Table",
+    "category": "Living",
+    "condition": "Good",
+    "posted_by": "Sarah Miller",
+    "zipcode": "10001",
+    "date_added": 1704067200,
+    "age_years": 2.5,
+    "description": "Solid oak wood coffee table with slight signs of wear on the lower shelf, very sturdy.",
+    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "David",
+        "comment": "Looks really beautiful and well maintained!"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Queen Size Ergonomic Mattress",
+    "category": "Bedroom",
+    "condition": "Like New",
+    "posted_by": "Alex Johnson",
+    "zipcode": "10002",
+    "date_added": 1704153600,
+    "age_years": 0.8,
+    "description": "Memory foam queen mattress, used with a waterproof mattress protector for 8 months.",
+    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Elena",
+        "comment": "Extremely comfortable and pristine condition."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Stainless Steel Espresso Machine",
+    "category": "Kitchen",
+    "condition": "Excellent",
+    "posted_by": "Marcus Chen",
+    "zipcode": "10003",
+    "date_added": 1704240000,
+    "age_years": 1.2,
+    "description": "15-bar pump espresso maker with steam wand for milk frothing. Includes portafilter and tamper.",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Jessica",
+        "comment": "Makes fantastic coffee, love the steam wand."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Noise Cancelling Wireless Headphones",
+    "category": "Electronics",
+    "condition": "Good",
+    "posted_by": "Michael Brown",
+    "zipcode": "10004",
+    "date_added": 1704326400,
+    "age_years": 1.5,
+    "description": "Over-ear Bluetooth headphones with active noise cancellation and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Kevin",
+        "comment": "Sound quality is incredible and battery holds up great."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Vintage Acoustic Guitar",
+    "category": "Living",
+    "condition": "Fair",
+    "posted_by": "Rachel Green",
+    "zipcode": "10005",
+    "date_added": 1704412800,
+    "age_years": 4.0,
+    "description": "Dreadnought acoustic guitar with warm tone. Minor scratches on back, newly strung.",
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Lucas",
+        "comment": "Great starter guitar with rich resonance."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Ergonomic Mesh Desk Chair",
+    "category": "Living",
+    "condition": "Like New",
+    "posted_by": "Robert Vance",
+    "zipcode": "10006",
+    "date_added": 1704499200,
+    "age_years": 0.5,
+    "description": "High back breathable mesh office chair with adjustable lumbar support and 3D armrests.",
+    "image": "https://images.unsplash.com/photo-1580481077195-c3a821a58875?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Hannah",
+        "comment": "Saved my back during long work from home days."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Programmable Slow Cooker 6-Quart",
+    "category": "Kitchen",
+    "condition": "Good",
+    "posted_by": "Monica Geller",
+    "zipcode": "10007",
+    "date_added": 1704585600,
+    "age_years": 2.0,
+    "description": "Digital timer slow cooker with removable stoneware pot and locking lid for travel.",
+    "image": "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Joey",
+        "comment": "Cooks stew perfectly, very handy."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Mechanical Gaming Keyboard RGB",
+    "category": "Electronics",
+    "condition": "Like New",
+    "posted_by": "Chandler Bing",
+    "zipcode": "10008",
+    "date_added": 1704672000,
+    "age_years": 0.7,
+    "description": "Tenkeyless mechanical keyboard with tactile brown switches and customizable RGB lighting.",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Ross",
+        "comment": "Keys feel crisp and lighting effects look amazing."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Ceramic Table Lamp Set of 2",
+    "category": "Bedroom",
+    "condition": "Excellent",
+    "posted_by": "Phoebe Buffay",
+    "zipcode": "10009",
+    "date_added": 1704758400,
+    "age_years": 1.0,
+    "description": "Pair of contemporary white ceramic bedside lamps with oatmeal fabric drum shades.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Sarah",
+        "comment": "Warm ambient light and very stylish on nightstands."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Cast Iron Dutch Oven 5-Quart",
+    "category": "Kitchen",
+    "condition": "Good",
+    "posted_by": "Gordon Ramsay",
+    "zipcode": "10010",
+    "date_added": 1704844800,
+    "age_years": 3.0,
+    "description": "Enameled cast iron dutch oven in vibrant cobalt blue, exceptional heat retention for sourdough.",
+    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Clara",
+        "comment": "Heavy duty and makes wonderful artisan bread."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Digital SLR Camera with 18-55mm Lens",
+    "category": "Electronics",
+    "condition": "Good",
+    "posted_by": "Peter Parker",
+    "zipcode": "10011",
+    "date_added": 1704931200,
+    "age_years": 2.2,
+    "description": "24MP DSLR camera body with kit zoom lens, strap, two batteries, and charger.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Mary",
+        "comment": "Great camera for beginner photographers."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Nordic Wool Throw Blanket",
+    "category": "Living",
+    "condition": "Like New",
+    "posted_by": "Emma Watson",
+    "zipcode": "10012",
+    "date_added": 1705017600,
+    "age_years": 0.4,
+    "description": "100% pure virgin wool herringbone throw blanket in charcoal grey with fringed edges.",
+    "image": "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Arthur",
+        "comment": "Cozy, warm, and zero scratching."
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Solid Pine 3-Drawer Nightstand",
+    "category": "Bedroom",
+    "condition": "Fair",
+    "posted_by": "Liam Neeson",
+    "zipcode": "10013",
+    "date_added": 1705104000,
+    "age_years": 3.5,
+    "description": "Natural pine bedside table with smooth sliding drawers and bronze pull handles.",
+    "image": "https://images.unsplash.com/photo-1532372320572-cda25653a26d?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Zoe",
+        "comment": "Solid build, great potential for a repaint project."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Smart Wi-Fi Air Purifier with HEPA Filter",
+    "category": "Living",
+    "condition": "Excellent",
+    "posted_by": "Bruce Wayne",
+    "zipcode": "10014",
+    "date_added": 1705190400,
+    "age_years": 1.1,
+    "description": "Covers up to 500 sq ft, ultra quiet sleep mode, real-time air quality indicator light.",
+    "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Alfred",
+        "comment": "Clears pollen and dust remarkably quickly."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "High-Power Nutrient Blender",
+    "category": "Kitchen",
+    "condition": "Good",
+    "posted_by": "Diana Prince",
+    "zipcode": "10015",
+    "date_added": 1705276800,
+    "age_years": 1.8,
+    "description": "1200W professional countertop blender for smoothies, frozen drinks, and soups.",
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Barry",
+        "comment": "Blends frozen fruit and kale in seconds without chunks."
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Compact 4K Portable Video Projector",
+    "category": "Electronics",
+    "condition": "Like New",
+    "posted_by": "Tony Stark",
+    "zipcode": "10016",
+    "date_added": 1705363200,
+    "age_years": 0.6,
+    "description": "Mini home theater LED projector with auto keystone correction, HDMI, and dual built-in speakers.",
+    "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?w=500&auto=format&fit=crop&q=60",
+    "comments": [
+      {
+        "author": "Pepper",
+        "comment": "Sharp image and super portable for movie night."
+      }
+    ]
+  }
+]

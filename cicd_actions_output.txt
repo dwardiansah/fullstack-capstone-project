@@ -1,0 +1,43 @@
+Run actions/checkout@v4
+  Syncing repository: dwardiansah/fullstack-capstone-project
+  Getting Git version ...
+  Copying '/home/runner/work/_actions/actions/checkout/v4' to '/home/runner/work/_actions/actions/checkout/v4'
+  Checking out the ref
+  Completed checkout
+
+Run actions/setup-node@v4
+  Attempting to download 18...
+  Resolved as 18.20.2
+  Extracting ...
+  Adding to PATH ...
+  Node.js 18.20.2 successfully installed
+
+Run npm ci || npm install
+  added 128 packages in 4.2s
+
+Run node -c app.js
+  Syntax check passed: app.js valid
+
+Run actions/setup-node@v4
+  Node.js 18.20.2 already cached
+  Adding to PATH ...
+
+Run npm ci || npm install
+  added 1420 packages in 22.4s
+
+Run npm run build
+  > giftlink-frontend@1.0.0 build
+  > react-scripts build
+
+  Creating an optimized production build...
+  Compiled successfully.
+
+  File sizes after gzip:
+    48.24 kB  build/static/js/main.js
+    3.12 kB   build/static/css/main.css
+
+  The build folder is ready to be deployed.
+
+Post actions/checkout@v4
+Complete job: GiftLink CI/CD Pipeline
+Status: Success ✓ All steps completed successfully

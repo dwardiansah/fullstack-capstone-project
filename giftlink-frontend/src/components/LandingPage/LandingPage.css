@@ -1,0 +1,61 @@
+.landing-hero {
+  background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #2563eb 100%);
+  padding: 5rem 1rem;
+  border-radius: 0 0 2.5rem 2.5rem;
+  box-shadow: 0 15px 35px rgba(15, 23, 42, 0.2);
+}
+
+.landing-subtitle {
+  max-width: 680px;
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #60a5fa, #38bdf8, #facc15);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.get-started-btn {
+  background-color: #facc15;
+  border: none;
+  color: #0f172a;
+  transition: all 0.25s ease;
+}
+
+.get-started-btn:hover {
+  background-color: #eab308;
+  transform: translateY(-2px);
+}
+
+.feature-card {
+  background: white;
+  border: 1px solid #e2e8f0;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px -4px rgba(0, 0, 0, 0.08);
+}
+
+.feature-icon-wrapper {
+  width: 60px;
+  height: 60px;
+  border-radius: 16px;
+  background: #eff6ff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-icon {
+  font-size: 1.8rem;
+}
+
+.landing-cta {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.25);
+}

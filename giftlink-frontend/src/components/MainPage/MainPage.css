@@ -1,0 +1,15 @@
+.mainpage-container {
+  min-height: 85vh;
+  background-color: #f8fafc;
+}
+
+.view-details-btn {
+  background: #3b82f6;
+  border: none;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.view-details-btn:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+}

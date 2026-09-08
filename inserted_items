@@ -1,0 +1,7 @@
+Connecting to database for import...
+Connected successfully to MongoDB server
+Existing gifts cleared.
+========================================
+Successfully imported 16 documents into MongoDB.
+Database: giftdb | Collection: gifts
+========================================
