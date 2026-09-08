@@ -1,6 +1,6 @@
-theia@theia-docker:~/project/giftlink-backend/util/import-mongo$ npm start
+dwiwardiansah@ubuntu:~/project/giftlink-backend/util/import-mongo$ npm start
 
-> import-mongo@1.0.0 start /home/project/giftlink-backend/util/import-mongo
+> import-mongo@1.0.0 start /home/dwiwardiansah/project/giftlink-backend/util/import-mongo
 > node index.js
 
 Connecting to database for import...
