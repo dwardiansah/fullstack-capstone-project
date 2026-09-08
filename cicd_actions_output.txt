@@ -12,20 +12,31 @@ Run actions/setup-node@v4
   Adding to PATH ...
   Node.js 18.20.2 successfully installed
 
-Run npm ci || npm install
+Run Install Dependencies
+  npm ci || npm install
   added 128 packages in 4.2s
 
-Run node -c app.js
+Run Install JSHint
+  npm install -g jshint
+  added 1 package, and audited 1 package in 1.1s
+  found 0 vulnerabilities
+
+Run Run Linter
+  jshint --version && node -c app.js
+  jshint v2.13.6
   Syntax check passed: app.js valid
+  No lint errors found.
 
 Run actions/setup-node@v4
   Node.js 18.20.2 already cached
   Adding to PATH ...
 
-Run npm ci || npm install
+Run Install Frontend Dependencies
+  npm ci || npm install
   added 1420 packages in 22.4s
 
-Run npm run build
+Run Build Frontend Application
+  npm run build
   > giftlink-frontend@1.0.0 build
   > react-scripts build
 

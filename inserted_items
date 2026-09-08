@@ -1,3 +1,8 @@
+theia@theia-docker:~/project/giftlink-backend/util/import-mongo$ npm start
+
+> import-mongo@1.0.0 start /home/project/giftlink-backend/util/import-mongo
+> node index.js
+
 Connecting to database for import...
 Connected successfully to MongoDB server
 Existing gifts cleared.
